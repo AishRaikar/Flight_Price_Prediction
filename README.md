@@ -1,7 +1,7 @@
 # Flight_Price_Prediction
-Flight Price Prediction using Machine Learning
+Flight Price Prediction Using Machine Learning
 
-This project involves the analysis of a comprehensive flight booking dataset obtained from a popular flight booking website, comprising over 300,000 datapoints. The primary objective is to predict future flight prices by employing a combination of exploratory data analysis (EDA), statistical methods, and machine learning algorithms. The insights gained from this analysis can be pivotal for both travelers and the aviation industry.
+This project involves the analysis of a comprehensive flight booking dataset obtained from a popular flight booking website, comprising over 300,000 data points. The primary objective is to predict future flight prices by employing a combination of exploratory data analysis (EDA), statistical methods, and machine learning algorithms. The insights gained from this analysis can be pivotal for both travelers and the aviation industry.
 
 Linear Regression Model:
 R2 Score: 0.905
@@ -32,4 +32,4 @@ The Random Forest Regressor emerges as the top-performing model among the three,
 Conclusion:
 Based on the comprehensive evaluation of these models, the Random Forest Regressor stands out as the most reliable choice for predicting flight ticket prices. Its exceptional performance, as reflected in the high R2 score and low error metrics, makes it the preferred model for deployment in real-world scenarios.
 
-This GitHub repository serves as a valuable resource for understanding the data analysis process, model evaluation, and the implementation of machine learning algorithms for predicting flight prices. Users can explore the Jupyter notebooks, datasets, and codebase to gain insights into the methodologies employed and replicate the analysis for similar datasets. Feel free to contribute, provide feedback, or use the models for your own flight price prediction applications.
+This GitHub repository serves as a valuable resource for understanding the data analysis process, model evaluation, and the implementation of machine learning algorithms for predicting flight prices. Users can explore the Jupyter notebooks, datasets, and codebase to gain insights into the methodologies employed and replicate the analysis for similar datasets. Feel free to contribute, provide feedback, or use the models for your flight price prediction applications.
