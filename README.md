@@ -4,7 +4,6 @@ Flight Price Prediction using Machine Learning
 This project involves the analysis of a comprehensive flight booking dataset obtained from a popular flight booking website, comprising over 300,000 datapoints. The primary objective is to predict future flight prices by employing a combination of exploratory data analysis (EDA), statistical methods, and machine learning algorithms. The insights gained from this analysis can be pivotal for both travelers and the aviation industry.
 
 Linear Regression Model:
-
 R2 Score: 0.905
 Mean Absolute Error (MAE): 4625
 Mean Absolute Percentage Error (MAPE): 0.435%
